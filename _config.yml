@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
-title: [Welcome to Moonwolf287's projects]
+title: [Moonwolf287's projects]
+logo: /assets/img/logo.jpg
+description: ""
+show_downloads: false
+color-scheme: auto
