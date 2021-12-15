@@ -1,5 +1,3 @@
-This is a page to have an overview of my current openly distributed and maintained projects:
-
 ## Ars Nouveau Ender Storage
 [Image PlaceHolder]
 
